@@ -1,7 +1,7 @@
 {
   "name": "kayen",
   "version": "1.0.0",
-  "description": "",
+  "description": "Kayen ERC20 Token",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -9,7 +9,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["Ethereum", "ERC20", "Blockchain"],
+  "author": ""
 }
